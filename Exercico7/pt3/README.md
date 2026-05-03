@@ -10,4 +10,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-<img src="imagens/exec07pt2.png" alt="Descrição" width="500">
+<img src="image/pt3exec07.png" alt="Descrição" width="500">
